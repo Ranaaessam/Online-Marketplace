@@ -1,0 +1,7 @@
+﻿  Customer.cpp
+C:\Users\User\Desktop\second term\project\Online MarketPlace Management System\Online MarketPlace Management System\Customer.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\second term\project\Online MarketPlace Management System\Online MarketPlace Management System\Customer.cpp(106,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\second term\project\Online MarketPlace Management System\Online MarketPlace Management System\Customer.cpp(112,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\second term\project\Online MarketPlace Management System\Online MarketPlace Management System\Customer.cpp(146,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\second term\project\Online MarketPlace Management System\Online MarketPlace Management System\Customer.cpp(129): warning C4715: 'Customer::Redeem_code': not all control paths return a value
+  Online MarketPlace Management System.vcxproj -> C:\Users\User\Desktop\second term\project\Online MarketPlace Management System\Debug\Online MarketPlace Management System.exe
